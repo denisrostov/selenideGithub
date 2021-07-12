@@ -1,2 +1,2 @@
-public class FindDelenide {
+public class FindSelenide {
 }
